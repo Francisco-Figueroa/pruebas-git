@@ -1,0 +1,10 @@
+* cd69824 (HEAD -> master, codigo) Archivo de Python Modificado
+* 9ba7d75 Archivo de Python Modificado
+* d15da16 Archivo de Python
+cd69824 HEAD@{0}: merge codigo: Fast-forward
+9ba7d75 HEAD@{1}: checkout: moving from codigo to master
+cd69824 HEAD@{2}: commit: Archivo de Python Modificado
+9ba7d75 HEAD@{3}: checkout: moving from master to codigo
+9ba7d75 HEAD@{4}: checkout: moving from codigo to master
+9ba7d75 HEAD@{5}: commit: Archivo de Python Modificado
+d15da16 HEAD@{6}: commit (initial): Archivo de Python
